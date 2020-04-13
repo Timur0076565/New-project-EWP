@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="109px" viewBox="0 0 117 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EWP-Full-Home-V1.2" transform="translate(-103.000000, -1995.000000)">
+            <g id="Group-13" transform="translate(103.000000, 1663.000000)">
+                <g id="Group-17" transform="translate(0.400000, 318.200000)">
+                    <polygon id="Triangle" fill="#0C1677" transform="translate(32.500000, 31.000000) rotate(33.000000) translate(-32.500000, -31.000000) " points="32.5 11 58 51 7 51"></polygon>
+                    <g id="Group-11" transform="translate(24.800000, 30.800000)" stroke-width="4.8">
+                        <polyline id="Stroke-21" stroke="#1D1D1B" stroke-linecap="round" points="44.4 57.0006 44.4 60.1506 44.4 63.3006 44.4 66.4506 44.4 69.6006"></polyline>
+                        <path d="M44.4,38.1006 L44.4,41.2506" id="Stroke-22" stroke="#1D1D1B" stroke-linecap="round"></path>
+                        <path d="M44.4,19.2006 L44.4,22.3506" id="Stroke-23" stroke="#1D1D1B" stroke-linecap="round"></path>
+                        <polyline id="Stroke-24" stroke="#020303" stroke-linecap="round" stroke-linejoin="round" points="63 48.6006 58.2 43.2006 30.6 43.2006 30.6 54.0006 58.2 54.0006 63 48.6006"></polyline>
+                        <polyline id="Stroke-25" stroke="#020303" stroke-linecap="round" stroke-linejoin="round" points="25.8 30.6006 30.6 36.0006 58.2 36.0006 58.2 25.2006 30.6 25.2006 25.8 30.6006"></polyline>
+                        <polygon id="Stroke-32" stroke="#1D1D1B" points="0 88.8 88.8 88.8 88.8 0 0 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

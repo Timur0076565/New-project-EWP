@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="122px" viewBox="0 0 116 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EWP-Full-Home-V1.2" transform="translate(-707.000000, -1778.000000)">
+            <g id="Group-13" transform="translate(103.000000, 1663.000000)">
+                <g id="Group-16" transform="translate(604.291227, 114.532196)">
+                    <rect id="Rectangle" fill="#90ADE8" transform="translate(31.200000, 31.200000) rotate(32.000000) translate(-31.200000, -31.200000) " x="9" y="9" width="44.4" height="44.4"></rect>
+                    <g id="Group-9" transform="translate(24.508773, 30.467804)">
+                        <path d="M27.87132,18.9756 C25.40172,18.9756 23.40012,20.9772 23.40012,23.4468 L23.40012,66.1044 C23.40012,68.574 25.40172,70.5756 27.87132,70.5756 L60.92892,70.5756 C63.39852,70.5756 65.40012,68.574 65.40012,66.1044 L65.40012,23.7756 C65.40012,21.306 63.39852,19.3044 60.92892,19.3044 L27.87132,18.9756 Z M28.24332,23.8224 L60.55692,24.144 L60.55692,65.7324 L28.24332,65.7324 L28.24332,23.8224 Z" id="Fill-1" fill="#1D1D1B"></path>
+                        <polygon id="Fill-3" fill="#1D1D1B" points="31.8 33.3756 57 33.3756 57 27.3756 31.8 27.3756"></polygon>
+                        <polygon id="Fill-5" fill="#1D1D1B" points="31.8 42.9756 37.8 42.9756 37.8 36.9756 31.8 36.9756"></polygon>
+                        <polygon id="Fill-6" fill="#1D1D1B" points="41.4 42.9756 47.4 42.9756 47.4 36.9756 41.4 36.9756"></polygon>
+                        <polygon id="Fill-7" fill="#1D1D1B" points="51 42.9756 57 42.9756 57 36.9756 51 36.9756"></polygon>
+                        <polygon id="Fill-8" fill="#1D1D1B" points="51 62.1756 57 62.1756 57 46.5756 51 46.5756"></polygon>
+                        <polygon id="Fill-9" fill="#1D1D1B" points="31.8 52.5756 37.8 52.5756 37.8 46.5756 31.8 46.5756"></polygon>
+                        <polygon id="Fill-10" fill="#1D1D1B" points="41.4 52.5756 47.4 52.5756 47.4 46.5756 41.4 46.5756"></polygon>
+                        <polygon id="Fill-11" fill="#1D1D1B" points="31.8 62.1756 37.8 62.1756 37.8 56.1756 31.8 56.1756"></polygon>
+                        <polygon id="Fill-12" fill="#1D1D1B" points="41.4 62.1756 47.4 62.1756 47.4 56.1756 41.4 56.1756"></polygon>
+                        <polygon id="Stroke-30" stroke="#1D1D1B" stroke-width="4.8" points="0 89.1756 88.8 89.1756 88.8 0.3756 0 0.3756"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

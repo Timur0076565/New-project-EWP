@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="121px" viewBox="0 0 117 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EWP-Full-Home-V1.2" transform="translate(-103.000000, -1779.000000)">
+            <g id="Group-13" transform="translate(103.000000, 1663.000000)">
+                <g id="Group-15" transform="translate(0.000000, 116.200000)">
+                    <circle id="Oval" fill="#FFA400" cx="28.8" cy="28.8" r="28.8"></circle>
+                    <g id="Group-10" transform="translate(25.200000, 28.800000)" stroke="#1D1D1B" stroke-width="4.8">
+                        <path d="M27,33.6 L27,60" id="Stroke-13"></path>
+                        <path d="M35.4,33.6 L35.4,60" id="Stroke-14"></path>
+                        <path d="M53.4,33.6 L53.4,60" id="Stroke-15"></path>
+                        <path d="M61.8,33.6 L61.8,60" id="Stroke-16"></path>
+                        <path d="M24.6,60.2004 L64.2,60.2004" id="Stroke-17" stroke-linecap="round"></path>
+                        <path d="M21,34.8 L67.8,34.8" id="Stroke-18" stroke-linecap="round"></path>
+                        <path d="M22.2,67.2 L67.8,67.2" id="Stroke-19" stroke-linecap="round"></path>
+                        <polyline id="Stroke-20" points="23.4 34.8 43.8 21.6 65.4 34.8"></polyline>
+                        <polygon id="Stroke-31" points="0 88.8 88.8 88.8 88.8 0 0 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
